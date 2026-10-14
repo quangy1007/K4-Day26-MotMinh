@@ -1,5 +1,8 @@
 # agent/ — bản đồ năm file · map of the five files
 
+> **Sinh viên thực hiện:** Đậu Quang Ý — **MSSV:** 2A202602661 — **Team:** DauQuangY-2A202602661
+> **Đấu trường:** Colosseum Agent Arena · Day 26 (MCP/A2A Infrastructure & Agentic Routing)
+
 *Bạn sở hữu toàn bộ thư mục này (RULES.md mục 1). Đọc bảng dưới TRƯỚC khi
 sửa bất cứ file nào — nó nói mỗi file quyết định gì, bị chấm ở đâu trong
 trace, và cứu bạn khỏi lớp lỗi nào trong 17 lớp (CONTRACTS.md mục 6.1).*
